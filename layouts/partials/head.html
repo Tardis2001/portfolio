@@ -1,0 +1,11 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matheus Evangelista</title>
+  
+  {{ $mainCSS := resources.Get "css/main.css" }}
+  <link rel="stylesheet" href="{{ $mainCSS.Permalink }}" integrity="{{ $mainCSS.Data.Integrity }}" media="screen">
+  
+  {{ $shortCSS := resources.Get "css/shortcodes.css" }}
+  <link rel="stylesheet" href="{{ $shortCSS.Permalink }}" integrity="{{ $shortCSS.Data.Integrity }}" media="screen">
+</head>

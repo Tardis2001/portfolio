@@ -1,0 +1,9 @@
+<div class="card">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" class="card-img">
+    <div class="card-body">
+      <p class="card-text">{{ .Get "content" }}</p>
+      {{ with .Get "button_text" }}
+        <a href="{{ $.Get "button_link" }}" class="card-button">{{ . }}</a>
+      {{ end }}
+    </div>
+</div>

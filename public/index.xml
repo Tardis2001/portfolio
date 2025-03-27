@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matheus Evangelista</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Matheus Evangelista</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Thu, 27 Mar 2025 10:47:11 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 27 Mar 2025 10:47:11 -0300</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;card&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/DespesasMobile.png&#34; alt=&#34;Despesas Mobile&#34; class=&#34;card-img&#34;&gt;&#xA;    &lt;div class=&#34;card-body&#34;&gt;&#xA;      &lt;p class=&#34;card-text&#34;&gt;Um simples projeto para controle de despesas que fiz para os meus pais. Ele permite registrar e acompanhar as despesas diárias assim como os seus ganhos&lt;/p&gt;&#xA;      &#xA;        &lt;a href=&#34;http://localhost:1313/blog&#34; class=&#34;card-button&#34;&gt;Veja mais&lt;/a&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;div class=&#34;card&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/DespesasMobile.jpg&#34; alt=&#34;Despesas Mobile&#34; class=&#34;card-img&#34;&gt;&#xA;    &lt;div class=&#34;card-body&#34;&gt;&#xA;      &lt;p class=&#34;card-text&#34;&gt;Um simples projeto para controle de despesas que fiz para os meus pais. Ele permite registrar e acompanhar as despesas diárias assim como os seus ganhos&lt;/p&gt;&#xA;      &#xA;        &lt;a href=&#34;http://localhost:1313/blog&#34; class=&#34;card-button&#34;&gt;Veja mais&lt;/a&gt;&#xA;      &#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contacts/</link>
+      <pubDate>Wed, 26 Mar 2025 19:33:53 -0300</pubDate>
+      <guid>http://localhost:1313/contacts/</guid>
+      <description>&lt;p&gt;Teste&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/post01/</link>
+      <pubDate>Wed, 26 Mar 2025 19:29:35 -0300</pubDate>
+      <guid>http://localhost:1313/blog/post01/</guid>
+      <description>&lt;p&gt;testw1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/post02/</link>
+      <pubDate>Wed, 26 Mar 2025 19:29:35 -0300</pubDate>
+      <guid>http://localhost:1313/blog/post02/</guid>
+      <description>&lt;p&gt;Test&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

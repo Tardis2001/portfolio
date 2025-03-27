@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt">
+    {{ partial "partials/head.html" . }}
+<body>
+    {{ partial "partials/nav.html" . }}
+
+    {{ block "main" . }}
+        
+    {{ end }}
+    {{ partial "partials/footer.html" . }}
+
+    {{ partial "partials/scripts.html" . }}
+
+    {{ block "scripts" . }}
+        
+    {{ end }}
+</body>
+</html>
